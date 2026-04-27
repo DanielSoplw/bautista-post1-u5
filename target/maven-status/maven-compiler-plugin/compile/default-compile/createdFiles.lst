@@ -1,0 +1,10 @@
+com\universidad\patrones\BibliotecaApiApplication.class
+com\universidad\patrones\model\Libro.class
+com\universidad\patrones\controller\LibroController.class
+com\universidad\patrones\dto\LibroRequestDTO.class
+com\universidad\patrones\repository\LibroRepository.class
+com\universidad\patrones\dto\LibroResponseDTO.class
+com\universidad\patrones\service\LibroService.class
+com\universidad\patrones\controller\LibroControllerV2.class
+com\universidad\patrones\mapper\LibroMapper.class
+com\universidad\patrones\exception\GlobalExceptionHandler.class
